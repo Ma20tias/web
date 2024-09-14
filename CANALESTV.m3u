@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1, TELEFE
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1726429435~acl=%2f*~data=hdntl~hmac=dee976262db581109be48a51e40a48b4431fceb7a01e03af0431a66478bc41c6/master-mtlf1.m3u8
+
+#EXTINF:-1, TVPUBLICA
+https://lae.pricesaskeloadsc.com/tv_publica/tracks-v1a1/mono.m3u8?token=046db28320f75dd4fda79cbc0a2538b2f2c15bc2-94-1726387868-1726351868
+
+#EXTINF:-1, ESPN PREMIUM
+https://cale.pricesaskeloadsc.com/espn_premium/tracks-v1a1/mono.m3u8?token=8b67b315f2527c332ef9daff60cbf788f6353562-90-1726388628-1726352628
